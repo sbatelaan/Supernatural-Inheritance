@@ -1,0 +1,15 @@
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.csproj.AssemblyReference.cache
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.AssemblyInfoInputs.cache
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.AssemblyInfo.cs
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mbate\Projects\Supernatural-Inheritance\bin\Debug\net7.0\Supernatural-Inheritance.exe
+C:\Users\mbate\Projects\Supernatural-Inheritance\bin\Debug\net7.0\Supernatural-Inheritance.deps.json
+C:\Users\mbate\Projects\Supernatural-Inheritance\bin\Debug\net7.0\Supernatural-Inheritance.runtimeconfig.json
+C:\Users\mbate\Projects\Supernatural-Inheritance\bin\Debug\net7.0\Supernatural-Inheritance.dll
+C:\Users\mbate\Projects\Supernatural-Inheritance\bin\Debug\net7.0\Supernatural-Inheritance.pdb
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.dll
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\refint\Supernatural-Inheritance.dll
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.pdb
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\Supernatural-Inheritance.genruntimeconfig.cache
+C:\Users\mbate\Projects\Supernatural-Inheritance\obj\Debug\net7.0\ref\Supernatural-Inheritance.dll
